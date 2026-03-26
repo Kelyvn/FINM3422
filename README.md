@@ -1,4 +1,3 @@
-
 # FINM3422 – Financial Modelling & Analytics for Finance (Course Repo)
 
 This repository contains **lecture and tutorial materials** for FINM3422 at The University of Queensland
@@ -19,9 +18,12 @@ Students are encouraged to **clone this repo and run the notebooks locally** usi
 - You must **not fork this repo and submit it** as your own work.
 
 For Assessments, each team must create their **own private GitHub repo**, with:
+
 - their own folder structure
 - their own code
 - appropriate documentation of any AI/tool assistance
+
+KELVIN NEW CHANGES
 
 ## Getting started
 
@@ -40,3 +42,4 @@ Oscar successfully cloned the repo
 
 Student: Dylan successfully cloned the repo.
 Oscar successfully cloned the repo
+```
